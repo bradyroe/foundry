@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.log
+printer.json
+_app_work/
